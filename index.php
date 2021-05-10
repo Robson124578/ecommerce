@@ -8,7 +8,7 @@ $app->config('debug', true);
 
 $app->get('/', function() {
     
-	echo "OK, está rodando !!!";
+	echo "OK, está rodando como o micro framework SLIM";
 
 });
 
